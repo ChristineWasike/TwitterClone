@@ -1,7 +1,9 @@
-package com.wasike.twitterclone;
+package com.wasike.twitterclone.UI;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.wasike.twitterclone.R;
 
 public class LoginActivity extends AppCompatActivity {
 
