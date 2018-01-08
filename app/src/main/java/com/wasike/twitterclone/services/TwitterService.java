@@ -5,4 +5,5 @@ package com.wasike.twitterclone.services;
  */
 
 public class TwitterService {
+
 }
